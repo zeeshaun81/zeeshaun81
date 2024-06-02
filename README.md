@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zeeshaun81
 - 👀 I’m interested in Energy efficiency in buildings, guitars, music.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m currently learning C and Python.
 - 💞️ I’m looking to collaborate on creating a web tool. 
 - 📫 zeeshaun.sheikh@gmail.com
 
