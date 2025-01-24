@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @zeeshaun81
-- 👀 I’m interested in Energy efficiency in buildings, guitars, music.
-- 🌱 I’m currently learning C and Python.
-- 💞️ I’m looking to collaborate on creating a web tool. 
-- 📫 zeeshaun.sheikh@gmail.com
+Hi, I'm Zeeshaun, an aspiring developer. My mission is to combine my coding skills with my experience as an Entrepreneur and Energy Consultant.  
+
+I am an Energy Consultant working on improving energy efficiency of buildings, sustainability and reducing global carbon emissions. 
+
+Connect with me on LinkedIn: https://www.linkedin.com/in/zeeshaunsheikh/
+
+Languages and Tools I've worked with:
+C, C#, Python, Javacript.
+
 
 
 <!---
