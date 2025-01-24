@@ -5,7 +5,7 @@ I am an Energy Consultant working on improving energy efficiency of buildings, s
 Connect with me on LinkedIn: https://www.linkedin.com/in/zeeshaunsheikh/
 
 Languages and Tools I've worked with:
-C, C#, Python, Javacript.
+C, C#, Python, React, Javacript.
 
 
 
